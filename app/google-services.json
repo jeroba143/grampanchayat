@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885952698660",
+    "project_id": "gram-panchayat-2c970",
+    "storage_bucket": "gram-panchayat-2c970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885952698660:android:8ba7916fe0efa85f6a3bb1",
+        "android_client_info": {
+          "package_name": "com.example.grampanchayat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFMwUwIm1BbnRVzxMXDzbSOIdZhy-OsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

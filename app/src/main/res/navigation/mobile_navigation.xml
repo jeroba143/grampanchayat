@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_view_all_complaints_rejected"
+        android:name="com.example.grampanchayat.ui.complaint.RejectedComplaintFragment"
+        android:label="Rejected Complaints"
+        tools:layout="@layout/fragment_rejected_complaint" />
+
+    <fragment
+        android:id="@+id/nav_view_all_complaints_resolved"
+        android:name="com.example.grampanchayat.ui.complaint.ResolvedComplaintsFragment"
+        android:label="Resolved Complaints"
+        tools:layout="@layout/fragment_resolved_complaints" />
+
+    <fragment
+        android:id="@+id/nav_pending_complaints"
+        android:name="com.example.grampanchayat.ui.complaint.PendingComplaintFragment"
+        android:label="Pending Complaints"
+        tools:layout="@layout/fragment_pending_complaint" />
+
+    <fragment
+        android:id="@+id/nav_view_your_complaint"
+        android:name="com.example.grampanchayat.ui.complaint.UsersComplaintFragment"
+        android:label="View Your Complaints"
+        tools:layout="@layout/fragment_users_complaint" />
+
+    <fragment
+        android:id="@+id/nav_file_complaint"
+        android:name="com.example.grampanchayat.ui.complaint.FileComplaintFragment"
+        android:label="File Complaint"
+        tools:layout="@layout/fragment_file_complaint" />
+
+    <fragment
+        android:id="@+id/nav_create_news"
+        android:name="com.example.grampanchayat.ui.createproject.CreateProjectFragment"
+        android:label="Create Project"
+        tools:layout="@layout/fragment_create_project" />
+
+    <fragment
+        android:id="@+id/nav_edit_profile"
+        android:name="com.example.grampanchayat.ui.profile.EditProfileFragment"
+        android:label="Edit Profile"
+        tools:layout="@layout/fragment_edit_profile" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.grampanchayat.ui.profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.grampanchayat.ui.home.HomeFragment"
+        android:label="Upcoming Projects"
+        tools:layout="@layout/fragment_home" />
+
+</navigation>
