@@ -9,7 +9,9 @@ this project aims to empower rural communities, enhance transparency, and promot
 service delivery.
 
 ## ScreenShots
+This is Admin Page
 ![Screenshot 2024-12-11 101639](https://github.com/user-attachments/assets/fc2e09df-edd4-42db-8c3c-47faa284e5e3)
+This is 
 ![Screenshot 2024-12-11 101645](https://github.com/user-attachments/assets/7b80c88f-404b-474d-9ccd-10dcb73abfa3)
 ![Screenshot 2024-12-11 101649](https://github.com/user-attachments/assets/faf35c13-9cff-491c-a6ea-cbc8d27ee8d7)
 ![Screenshot 2024-12-11 101653](https://github.com/user-attachments/assets/f41bbfb9-12f6-457f-9337-74f0d449233d)
